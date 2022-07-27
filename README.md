@@ -1,2 +1,3 @@
 # Iman_Gallery
-The website I'm developing, in order to share my photos 
+The website I'm developing, in order to share my photos...
+Hope You enjoy it!
